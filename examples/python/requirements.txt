@@ -1,3 +1,5 @@
-flask~=1.0
-requests~=2.0
-markupsafe==2.0.1
+flask
+requests
+markupsafe
+gunicorn
+pymysql
